@@ -1,4 +1,4 @@
 # Bank-Software
 Real time application using Banking system -
 The Bank Account Management System is an application for maintaining a person's account in a bank.
-We make thousands of transactions through banks daily and we can do this without going to the bank. So how banking has become so easy that by sitting at home we can send or get money through banks. That is all possible just because of DBMS that manages all the bank transactions.
+We make thousands of transactions through banks daily and we can do this without going to the bank. So how banking has become so easy that by sitting at home we can send or get money through banks. That is all possible just because of DBMS that manages all the bank transactions. Bank Account Management System keeps the day by day tally record as a complete banking system. It can keep the information of Account type, account opening form, Deposit fund, Withdrawal, and Searching the transaction, Transaction reports, Individual account opening form, Group Account. The existing part of this project is; it displays Transaction reports, Statistical Summary of Account type and Interest Information.
